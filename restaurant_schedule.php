@@ -1,6 +1,6 @@
 <?php
-/**
-* 
+/** November 2015
+* Author N@zrul
 */
 class restaurant_schedule extends REST
 {
